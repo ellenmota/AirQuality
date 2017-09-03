@@ -229,7 +229,7 @@
 				TargetAttributes = {
 					49A4CB941F4C5B0900AEEFDF = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = U6J4M45K4J;
+						DevelopmentTeam = N568683GB9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -419,7 +419,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = U6J4M45K4J;
+				DEVELOPMENT_TEAM = N568683GB9;
 				INFOPLIST_FILE = AirQuality/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.bepid.AirQuality;
@@ -432,7 +432,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = U6J4M45K4J;
+				DEVELOPMENT_TEAM = N568683GB9;
 				INFOPLIST_FILE = AirQuality/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = br.com.bepid.AirQuality;
